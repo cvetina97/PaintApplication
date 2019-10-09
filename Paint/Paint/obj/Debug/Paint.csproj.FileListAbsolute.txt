@@ -1,0 +1,146 @@
+D:\ГПИ\Paint\Paint\bin\Debug\Paint.exe.config
+D:\ГПИ\Paint\Paint\bin\Debug\Paint.exe
+D:\ГПИ\Paint\Paint\bin\Debug\Paint.pdb
+D:\ГПИ\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\ГПИ\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\ГПИ\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\ГПИ\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\ГПИ\Paint\Paint\obj\Debug\Paint.exe
+D:\ГПИ\Paint\Paint\obj\Debug\Paint.pdb
+D:\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Paint\Paint\obj\Debug\Paint.exe
+D:\Paint\Paint\obj\Debug\Paint.pdb
+D:\Paint\Paint\bin\Debug\Paint.exe
+D:\Paint\Paint\bin\Debug\Paint.pdb
+D:\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Paint\Paint\obj\Debug\Paint.Main.resources
+D:\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+G:\Paint\Paint\bin\Debug\Paint.exe.config
+G:\Paint\Paint\obj\Debug\Paint.exe
+G:\Paint\Paint\obj\Debug\Paint.pdb
+G:\Paint\Paint\bin\Debug\Paint.exe
+G:\Paint\Paint\bin\Debug\Paint.pdb
+G:\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+G:\Paint\Paint\obj\Debug\Paint.Main.resources
+G:\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+G:\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Мартин\Downloads\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Мартин\Downloads\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Мартин\Downloads\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Мартин\Downloads\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Мартин\Downloads\Paint\Paint\obj\Debug\Paint.Main.resources
+C:\Users\Мартин\Downloads\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Мартин\Downloads\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+C:\Users\Мартин\Downloads\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Мартин\Downloads\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Мартин\Downloads\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Admin\Downloads\Paint\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Admin\Downloads\Paint\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Admin\Downloads\Paint\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Мартин\Downloads\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.exe
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+D:\ГПИ\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+C:\Users\fmi\Desktop\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Admin\Desktop\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.exe
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+D:\ГПИ\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.exe
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+D:\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+D:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.exe
+D:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe.config
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.exe
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\bin\Debug\Paint.pdb
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Main.resources
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.exe
+F:\PU\Нова папка\Нова папка\PaintC_M\PaintC_M\PaintC\Paint\Paint\obj\Debug\Paint.pdb
+F:\PU\Paint\Paint\bin\Debug\Paint.exe.config
+F:\PU\Paint\Paint\bin\Debug\Paint.exe
+F:\PU\Paint\Paint\bin\Debug\Paint.pdb
+F:\PU\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+F:\PU\Paint\Paint\obj\Debug\Paint.AboutPaint.resources
+F:\PU\Paint\Paint\obj\Debug\Paint.Main.resources
+F:\PU\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\PU\Paint\Paint\obj\Debug\Paint.WelcomeScreen.resources
+F:\PU\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\PU\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\PU\Paint\Paint\obj\Debug\Paint.exe
+F:\PU\Paint\Paint\obj\Debug\Paint.pdb
